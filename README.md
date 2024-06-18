@@ -13,10 +13,6 @@ As a highly motivated and detail-oriented individual with a passion for cybersec
 
 I am deeply committed to promoting a strong security posture, recognizing the importance of safeguarding sensitive information and mitigating risks effectively. My approach to cybersecurity is proactive, focusing on identifying potential vulnerabilities before they can be exploited, and implementing robust measures to protect against threats.
 
-Contact Me
-
-    Email: aristotle@rulloda.xyz
-
 Let's Connect!
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about cybersecurity and software testing. I'm always open to connecting with like-minded professionals and exploring new opportunities.
