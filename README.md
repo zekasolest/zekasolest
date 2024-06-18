@@ -15,7 +15,6 @@ I am deeply committed to promoting a strong security posture, recognizing the im
 
 Contact Me
 
-    LinkedIn: www.linkedin.com/in/aristotlerulloda
     Email: aristotle@rulloda.xyz
 
 Let's Connect!
