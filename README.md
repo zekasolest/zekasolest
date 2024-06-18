@@ -16,6 +16,11 @@ Let's Connect!
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about cybersecurity and software testing. I'm always open to connecting with like-minded professionals and exploring new opportunities.
 
+- <h2>👨🏽‍💻 My Projects!</h2>
+    
+    - <b>Azure / Cloud Projects</b>
+
+        - [Creating a Live SOC / Honeynet in Azure](https://github.com/zekasolest/Honeynet-SOC)
 <!--
 **zekasolest/zekasolest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
