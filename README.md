@@ -4,6 +4,8 @@
 
         - [Creating a Live SOC / Honeynet in Azure](https://github.com/zekasolest/Honeynet-SOC)
      
+        - [Hashing Algorithms + FIM](https://github.com/zekasolest/Coding-FIM)
+     
 ## Heyo, I'm Aristotle! 👋
 
 Welcome to My GitHub Profile
